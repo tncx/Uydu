@@ -1,3 +1,7 @@
-https://cankayauydu.com/sitemap.xml
-https://www.googleapis.com/auth/webmasters
-https://www.googleapis.com/webmasters/v3/sites/cankayauydu.com/sitemaps/index.html
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.cankayauydu.com/index.html
