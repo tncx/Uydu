@@ -1,1 +1,2 @@
 https://cankayauydu.com/sitemap.xml
+https://www.googleapis.com/auth/webmasters
