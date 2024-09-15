@@ -1,3 +1,3 @@
 https://cankayauydu.com/sitemap.xml
 https://www.googleapis.com/auth/webmasters
-https://www.googleapis.com/webmasters/v3/sites/siteUrl/sitemaps/feedpath
+https://www.googleapis.com/webmasters/v3/sites/cankayauydu.com/sitemaps/index.html
