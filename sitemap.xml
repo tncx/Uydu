@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://www.cankayauydu.com/</loc>
+        <loc>https://www.cankayauydu.com/index</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://www.cankayauydu.com/hizmetler</loc>
+        <loc>https://www.cankayauydu.com/services</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://www.cankayauydu.com/iletisim</loc>
+        <loc>https://www.cankayauydu.com/contacts</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://www.cankayauydu.com/uydu-servisi</loc>
+        <loc>https://www.cankayauydu.com/canak-anten-nasıl-ayarlanır</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://www.cankayauydu.com/canak-anten-kurulumu</loc>
+        <loc>https://www.cankayauydu.com/canak-anten-nedir</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://www.cankayauydu.com/merkezi-uydu-sistemi</loc>
+        <loc>https://www.cankayauydu.com/turksat-sebeke-arama-frekansı</loc>
         <lastmod>2024-09-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
